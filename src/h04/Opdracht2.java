@@ -1,12 +1,8 @@
 package h04;
 
-import java.applet.Applet;
+import java.applet.*;
 import java.awt.*;
 
-public class Opdracht2 {
-}
-import java.awt.*;
-import java.applet.*;
 
 public class Opdracht2 extends Applet {
 
