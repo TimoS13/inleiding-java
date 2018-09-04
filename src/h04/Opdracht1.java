@@ -3,19 +3,19 @@ package h04;
 import java.applet.Applet;
 import java.awt.*;
 
-public class Opdracht2 {
+public class Opdracht1 {
 }
 import java.awt.*;
 import java.applet.*;
 
-public class Opdracht2 extends Applet {
+public class Show extends Applet {
 
     public void init() {
     }
 
     public void paint(Graphics g) {
-        setBackground(Color.WHITE);
-        g.setColor(Color.BLACK);
+        setBackground(Color.blue);
+        g.setColor(Color.yellow);
         g.drawLine(200,10, 250, 200);
         g.drawLine(200, 10, 150, 200);
         g.drawLine(150,200,250,200);
