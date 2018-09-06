@@ -10,9 +10,9 @@ public class Opdracht3 extends Applet {
     int Max;
 
     public void init() {
-      GrootGetal =  2147483000;
-      KleinGetal = 4000;
-      Max =  2147483647;
+        GrootGetal =  2147483000;
+        KleinGetal = 4000;
+        Max =  2147483647;
     }
 
     public void paint(Graphics g) {
