@@ -10,7 +10,7 @@ public class Opdracht1 extends Applet {
     int leeftijd;
     int nleeftijd;
     TextField tekstvak;
-    Label label;
+    Label label;0
     String tekst;
     String s;
 
@@ -45,7 +45,7 @@ public class Opdracht1 extends Applet {
 
             }
             else {
-                s = "Uw leeftijd is niet groter als de laatste ";
+                s = "Uw leeftijd is niet hoger als de vorige persoon ";
                 repaint();
            }
         }
