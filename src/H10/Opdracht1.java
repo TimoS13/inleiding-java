@@ -10,7 +10,7 @@ public class Opdracht1 extends Applet {
     int leeftijd;
     int nleeftijd;
     TextField tekstvak;
-    Label label;0
+    Label label;
     String tekst;
     String s;
 
