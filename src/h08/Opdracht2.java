@@ -6,7 +6,7 @@ import java.awt.event.*;
 
 public class Opdracht2 extends Applet{
 
-    //Declare variables:
+
     Button Man;
     int telm;
     Button Vrouw;

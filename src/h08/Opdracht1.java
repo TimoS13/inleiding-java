@@ -13,6 +13,7 @@ public class Opdracht1 extends Applet {
     TextField tekstvak;
     String s;
 
+
     public void init() {
         KnopOk = new Button();
         KnopOk.setLabel( "Ok" );
@@ -40,7 +41,8 @@ public class Opdracht1 extends Applet {
             schermtekst = "";
             repaint();
         }
-    }class KnopClearListener implements ActionListener {
+    }
+    class KnopClearListener implements ActionListener {
         public void actionPerformed( ActionEvent e ) {
             tekstvak.setText("  ");
             repaint();
