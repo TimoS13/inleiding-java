@@ -19,6 +19,7 @@ public class praktijk2 extends Applet {
 
     }
     public void paint (Graphics g){
+        g.setColor(Color.red);
 
       int y = 45;
 
